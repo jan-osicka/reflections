@@ -10,6 +10,8 @@ Different is that staging area holds files temporarly inside ad than commit it t
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can see files inside staging area by command git status... and than pust it with git commit -m "Commit message"
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
