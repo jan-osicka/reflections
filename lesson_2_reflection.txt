@@ -15,6 +15,10 @@ I can see files inside staging area by command git status... and than pust it wi
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+
+If I need run more version of one project and switch beetween them. lately i can also merge them 
+
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
