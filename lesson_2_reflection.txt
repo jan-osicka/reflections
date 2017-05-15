@@ -21,6 +21,8 @@ If I need run more version of one project and switch beetween them. lately i can
 
 How do the diagrams help you visualize the branch structure?
 
+When you have commit that is not reachable you need visualize where is it, it also apply when you have multiple branches and you want to test them or merge them
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
