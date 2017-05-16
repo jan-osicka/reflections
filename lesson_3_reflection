@@ -7,3 +7,12 @@ When I am working on project with multiple people or i want to backup my project
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 What if there will be more people on project and they do changes that I dont want in my local PC...
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Clone: Copy a repository to your PC or reversed.
+
+Braches: Make more path for another features in project without interacting with anothers.
+
+Forks: Special function in GitHub that allow us to effectively clone repository and make changes on them, without destroing original...
